@@ -1,4 +1,4 @@
-# Leandro Scherer de Oliveira - Data Analyst
+### Leandro Scherer de Oliveira - Data Analyst
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/leandroschereroliveira)
 [![Email](https://img.shields.io/badge/Email-lescherer%40gmail.com-red?style=flat-square&logo=gmail)](mailto:lescherer@gmail.com)
@@ -15,11 +15,14 @@
 
 ## Habilidades Técnicas
 
-- ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) **Python**: Análise e visualização de dados, automação de processos.
 - ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black) **Power BI**: Criação de dashboards, integração de dados e automação de relatórios.
 - ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white) **SQL**: Manipulação de dados, criação de queries e otimização de processos.
-
----
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) **Python**: Análise e visualização de dados, automação de processos.
+- Linguagens em foco:
+<div display='inline'>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="50"/>
+</div>                   
 
 ## Experiência Profissional
 
@@ -35,7 +38,7 @@ Maio de 2021 - Março de 2024
 
 ---
 
-## Certificações
+## Cursos
 
 - Curso Completo de Power BI
 - SQL Avançado Para Analistas de BI
