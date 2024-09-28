@@ -46,7 +46,8 @@ Maio de 2021 - Março de 2024
 - Análise e Visualização de Dados com Python
 
 ---
-Sinta-se à vontade para conferir mais detalhes sobre meu perfil.  
+Sinta-se à vontade para conferir mais detalhes sobre meu perfil no linkedin.  
 <a href="https://www.linkedin.com/in/leandroschereroliveira">
-<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
 
