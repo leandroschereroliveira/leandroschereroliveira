@@ -25,25 +25,7 @@
   <img src="https://img.icons8.com/?size=100&id=qYfwpsRXEcpc&format=png&color=000000" width="50"/>
 </div>                   
 
-## Experiência Profissional
 
-**Agrofel**  
-*Gestão de Riscos | Analista de Dados*  
-Março de 2024 - Presente  
-- Automação de relatórios e painéis de riscos, aumentando a eficiência do processo de tomada de decisões estratégicas.
-
-**Facta Financeira**  
-*Gestão de Riscos | Analista de Dados*  
-Maio de 2021 - Março de 2024  
-- ETL de dados utilizando ferramentas como Python, SQL e Excel, desenvolvimento de dashboards no Power BI.
-
----
-
-## Cursos
-
-- Curso Completo de Power BI
-- SQL Avançado Para Analistas de BI
-- Análise e Visualização de Dados com Python
 
 ---
 Sinta-se à vontade para conferir mais detalhes sobre meu perfil no linkedin.  
