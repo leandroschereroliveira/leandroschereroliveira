@@ -1,4 +1,5 @@
-### Leandro Scherer de Oliveira - Data Analyst
+![Minha Imagem](banner.png)
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/leandroschereroliveira)
 [![Email](https://img.shields.io/badge/Email-lescherer%40gmail.com-red?style=flat-square&logo=gmail)](mailto:lescherer@gmail.com)
@@ -7,7 +8,7 @@ Olá, sou Leandro. Analista de dados com experiência em análise e relatórios 
 
 - Consultando dados usando SQL.
 - Gere relatórios e execute análises de dados ad-hoc usando SQL.
-- Desenvolvendo painéis no Power Bi.
+- Desenvolvendo de painéis no Power Bi.
 - Análise de dados e relatórios usando Planilhas Google e Excel.
 ---
 
